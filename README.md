@@ -1,2 +1,2 @@
-# Sample-Pad
+# SamplePad
 Application for playing a sound loops/samples.
